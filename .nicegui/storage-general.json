@@ -1,0 +1,1 @@
+{"controller_type":"Adb","adb_path":"D:\\Game\\MuMuPlayer-12.0-1\\shell\\adb.exe","adb_address":"127.0.0.1:16384","adb_config":"{'extras': {'mumu': {'enable': True, 'index': 0, 'path': 'D:/Game/MuMuPlayer-12.0-1'}}}","hwnd":"","win32_screencap":4,"win32_input":1,"window_name":"","resource_dir":"D:\\Programming\\test\\assets\\resource\\base","task_entry":"Back"}
